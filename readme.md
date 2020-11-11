@@ -69,6 +69,7 @@ Versão 1.0 de 7/4/2020.
 
 ## Business
 
+- [IFs/IPs com Pix API] (https://github.com/bacen/pix-api/issues/76)
 - [Open Pix](https://openpix.com.br)
 
 ## PIX JOBs
